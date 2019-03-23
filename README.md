@@ -5,7 +5,8 @@ App features
       i.  (click on) "More Info" to visit external web page with all details about tour/ event / tickets/ venue
       ii. (click on) "Map image" to open venue location on googlemap for direction to drive and know exact event area location. Explore on           map near by places and hotels/restaurants of interests
      
-  At bottom of the HTML page you can find stats (top 12 artist) plotteed in D3 based on artist popularity ratings.
+  At bottom of the HTML page you can find stats (top 12 artist) plotteed in D3 based on artist popularity ratings. Also, there is an option to open page in a map view on full screen window to know artist's future events on map.
+  
   
   For more stats and analysis :
   Visit to the below web link, we created sheets/dashboard in Tableau and published to Tableau public
